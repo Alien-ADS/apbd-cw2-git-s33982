@@ -11,7 +11,7 @@ static int CalculateMax(int[] values) {
 }
 
 static void Hello() {
-    Console.WriteLine("Hello!");
+    Console.WriteLine("Czesc!");
 }
 
 static int CalculateMin(int[] values) {
