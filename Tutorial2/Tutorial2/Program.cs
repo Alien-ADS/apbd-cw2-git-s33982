@@ -2,8 +2,8 @@
 
 Console.WriteLine("Hello, World!");
 
-static void CalculateAverage(int[] values) {
-    
+static double CalculateAverage(int[] values) {
+    return 0.0;
 }
 
 class Testowy {
