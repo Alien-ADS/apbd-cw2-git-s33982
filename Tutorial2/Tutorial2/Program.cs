@@ -14,6 +14,10 @@ static void Hello() {
     Console.WriteLine("Hello!");
 }
 
+static int CalculateMin(int[] values) {
+    return 0;
+}
+
 class Testowy {
     public static void Main(string[] args) {
         Console.WriteLine("Main");
