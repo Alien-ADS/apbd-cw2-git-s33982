@@ -6,6 +6,10 @@ static double CalculateAverage(int[] values) {
     return 0.0;
 }
 
+static int CalculateMax(int[] values) {
+    return 0;
+}
+
 class Testowy {
     public static void Main(string[] args) {
         Console.WriteLine("Main");
