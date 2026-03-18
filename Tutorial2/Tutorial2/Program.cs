@@ -10,6 +10,10 @@ static int CalculateMax(int[] values) {
     return 0;
 }
 
+static void Hello() {
+    Console.WriteLine("Hello!");
+}
+
 class Testowy {
     public static void Main(string[] args) {
         Console.WriteLine("Main");
