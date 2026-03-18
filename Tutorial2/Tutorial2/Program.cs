@@ -15,7 +15,7 @@ static void Hello() {
 }
 
 static int CalculateMin(int[] values) {
-    return 0;
+    return values[0];
 }
 
 class Testowy {
