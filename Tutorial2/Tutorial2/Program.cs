@@ -3,5 +3,7 @@
 Console.WriteLine("Hello, World!");
 
 class Testowy {
-    
+    public static void Main(string[] args) {
+        Console.WriteLine("Main");
+    }
 }
